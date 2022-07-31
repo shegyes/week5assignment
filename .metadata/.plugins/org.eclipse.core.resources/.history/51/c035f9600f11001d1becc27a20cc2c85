@@ -1,0 +1,5 @@
+package com.stephenhegyes;
+
+public interface logger {
+
+}
